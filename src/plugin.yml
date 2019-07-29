@@ -1,0 +1,8 @@
+main: tk.shanebee.testplugin.TestPlugin
+name: TestPlugin
+version: 1.0.0
+author: ShaneBee
+
+commands:
+  test:
+    description: give a test item
